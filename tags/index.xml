@@ -1,92 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Web Development | Photography | MSFS Projects</title>
-    <link>https://randallsnow.ddns.net/tags/</link>
-    <description>Recent content in Tags on Web Development | Photography | MSFS Projects</description>
+    <title>Tags on MSFS Projects | Aviation Photography</title>
+    <link>https://RandallSnow.github.io/tags/</link>
+    <description>Recent content in Tags on MSFS Projects | Aviation Photography</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language>
-    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0100</lastBuildDate><atom:link href="https://randallsnow.ddns.net/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>How to</title>
-      <link>https://randallsnow.ddns.net/tags/how-to/</link>
-      <pubDate>Thu, 01 Apr 2021 00:00:00 +0100</pubDate>
-      
-      <guid>https://randallsnow.ddns.net/tags/how-to/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Technology</title>
-      <link>https://randallsnow.ddns.net/tags/technology/</link>
-      <pubDate>Thu, 01 Apr 2021 00:00:00 +0100</pubDate>
-      
-      <guid>https://randallsnow.ddns.net/tags/technology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Advice</title>
-      <link>https://randallsnow.ddns.net/tags/advice/</link>
-      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
-      
-      <guid>https://randallsnow.ddns.net/tags/advice/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>AI</title>
-      <link>https://randallsnow.ddns.net/tags/ai/</link>
-      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
-      
-      <guid>https://randallsnow.ddns.net/tags/ai/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Android</title>
-      <link>https://randallsnow.ddns.net/tags/android/</link>
-      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
-      
-      <guid>https://randallsnow.ddns.net/tags/android/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Company</title>
-      <link>https://randallsnow.ddns.net/tags/company/</link>
-      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
-      
-      <guid>https://randallsnow.ddns.net/tags/company/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mechine</title>
-      <link>https://randallsnow.ddns.net/tags/mechine/</link>
-      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
-      
-      <guid>https://randallsnow.ddns.net/tags/mechine/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>News</title>
-      <link>https://randallsnow.ddns.net/tags/news/</link>
-      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
-      
-      <guid>https://randallsnow.ddns.net/tags/news/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Retro</title>
-      <link>https://randallsnow.ddns.net/tags/retro/</link>
-      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
-      
-      <guid>https://randallsnow.ddns.net/tags/retro/</guid>
-      <description></description>
-    </item>
-    
+    <language>en-US</language><atom:link href="https://RandallSnow.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
