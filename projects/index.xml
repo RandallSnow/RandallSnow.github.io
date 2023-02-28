@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Our Projects on Web Development | Photography | MSFS Projects</title>
+    <link>https://randallsnow.ddns.net/projects/</link>
+    <description>Recent content in Our Projects on Web Development | Photography | MSFS Projects</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language><atom:link href="https://randallsnow.ddns.net/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DCDesigns PT-17 &#39;505&#39;</title>
+      <link>https://randallsnow.ddns.net/projects/stearman-505/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://randallsnow.ddns.net/projects/stearman-505/</guid>
+      <description>DCDesigns PT-17 Stearman Repaint - Stearman 505 Download Now </description>
+    </item>
+    
+    <item>
+      <title>Tokoroa</title>
+      <link>https://randallsnow.ddns.net/projects/tokoroa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://randallsnow.ddns.net/projects/tokoroa/</guid>
+      <description>NZTO/Tokoroa Aerodrome Tokoroa Aerodrome (IATA: TKZ, ICAO: NZTO) is a public aerodrome owned by the South Waikato District Council and is located one nautical mile east-southeast of Tokoroa township in the Waikato region of New Zealand.</description>
+    </item>
+    
+    <item>
+      <title>WBSim Cessna 172 N944LA</title>
+      <link>https://randallsnow.ddns.net/projects/n944la/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://randallsnow.ddns.net/projects/n944la/</guid>
+      <description>N944LA Repaint - WBSim Cessna 172SP Download Now </description>
+    </item>
+    
+    <item>
+      <title>Zaragoza Navigraph Compatibility</title>
+      <link>https://randallsnow.ddns.net/projects/zaragota/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://randallsnow.ddns.net/projects/zaragota/</guid>
+      <description>LEZG/Zaragoza This mod fixes a terraforming bug present in Air Hispania LEZG scenery when using Navigraph NavData.</description>
+    </item>
+    
+  </channel>
+</rss>
