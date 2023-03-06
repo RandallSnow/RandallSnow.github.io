@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Our Projects on MSFS Projects | Aviation Photography</title>
+    <title>My Projects on MSFS Projects | Aviation Photography</title>
     <link>https://RandallSnow.github.io/projects/</link>
-    <description>Recent content in Our Projects on MSFS Projects | Aviation Photography</description>
+    <description>Recent content in My Projects on MSFS Projects | Aviation Photography</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language><atom:link href="https://RandallSnow.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -12,7 +12,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://RandallSnow.github.io/projects/stearman-505/</guid>
-      <description>DCDesigns PT-17 Stearman Repaint - Stearman 505 Download Now </description>
+      <description>DCDesigns PT-17 Stearman Repaint - Stearman 505 - MSFS2020 Download Now </description>
     </item>
     
     <item>
@@ -21,7 +21,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://RandallSnow.github.io/projects/tokoroa/</guid>
-      <description>NZTO/Tokoroa Aerodrome Tokoroa Aerodrome (IATA: TKZ, ICAO: NZTO) is a public aerodrome owned by the South Waikato District Council and is located one nautical mile east-southeast of Tokoroa township in the Waikato region of New Zealand.</description>
+      <description>NZTO/Tokoroa Aerodrome for MSFS2020 Tokoroa Aerodrome (IATA: TKZ, ICAO: NZTO) is a public aerodrome owned by the South Waikato District Council and is located one nautical mile east-southeast of Tokoroa township in the Waikato region of New Zealand.</description>
+    </item>
+    
+    <item>
+      <title>WBSim Cessna 172 N737GR</title>
+      <link>https://RandallSnow.github.io/projects/n737gr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://RandallSnow.github.io/projects/n737gr/</guid>
+      <description>N737GR Repaint - WBSim Cessna 172SP - Microsoft Flight Simulator Download For WBSim 172SP </description>
     </item>
     
     <item>
@@ -30,7 +39,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://RandallSnow.github.io/projects/n944la/</guid>
-      <description>N944LA Repaint - WBSim Cessna 172SP Download Now </description>
+      <description>N944LA Repaint - WBSim Cessna 172SP - Microsoft Flight Simulator Download Now </description>
     </item>
     
     <item>
@@ -39,7 +48,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://RandallSnow.github.io/projects/zaragota/</guid>
-      <description>LEZG/Zaragoza This mod fixes a terraforming bug present in Air Hispania LEZG scenery when using Navigraph NavData.</description>
+      <description>LEZG/Zaragoza for MSFS2020 This mod fixes a terraforming bug present in Air Hispania LEZG scenery when using Navigraph NavData.</description>
     </item>
     
   </channel>
